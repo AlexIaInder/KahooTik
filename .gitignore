@@ -10,7 +10,7 @@
 # testing
 /coverage
 
-/public
+/build
 
 # misc
 .DS_Store
