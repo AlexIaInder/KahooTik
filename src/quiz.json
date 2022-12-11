@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "question": " The correct way to define a function in JavaScript is: ",
+      "choices": [
+        "myfunc function()",
+        "function myfunc()",
+        "function=myfunc()",
+        "myfunc()"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "What is a Redux selector?",
+      "choices": [
+        "Object",
+        "React hook",
+        "Function",
+        "Part of the state"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Which component allows you to render JSX markup to URL?",
+      "choices": [
+        "Routes",
+        "Route",
+        "Element",
+        "RenderRoute"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "What is the value of JavaScript expression 23 < 1 || 12 > 6?",
+      "choices": [
+        "true",
+        "false",
+        "20",
+        "null"
+      ],
+      "answer": "0"
+    },
+    {
+      "question": "Which method reads data from local storage?",
+      "choices": [
+        "localStorage.extractItem()",
+        "localStorage.readItem()",
+        "localStorage.getItem()",
+        "localStorage.pullItem()"
+      ],
+      "answer": "2"
+    }
+  ]
+}
