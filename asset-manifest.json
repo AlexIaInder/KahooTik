@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb049209.css",
-    "main.js": "/static/js/main.48cdbba3.js",
-    "static/media/matrix.mp3": "/static/media/matrix.72d75402c06106b33644.mp3",
-    "static/media/bg-image.jpg": "/static/media/bg-image.81ff75fb1fdcd5ab7cf2.jpg",
-    "static/media/bg-image-quetion.jpg": "/static/media/bg-image-quetion.72b999c218ea82ef5b6d.jpg",
-    "static/media/winner.mp3": "/static/media/winner.e7ea712563d2ecfeac13.mp3",
-    "static/media/Winner.jpg": "/static/media/Winner.78a7901e0dde162865d8.jpg",
-    "index.html": "/index.html",
-    "main.eb049209.css.map": "/static/css/main.eb049209.css.map",
-    "main.48cdbba3.js.map": "/static/js/main.48cdbba3.js.map"
+    "main.css": "/KahooTik/static/css/main.eb049209.css",
+    "main.js": "/KahooTik/static/js/main.84001395.js",
+    "static/media/matrix.mp3": "/KahooTik/static/media/matrix.72d75402c06106b33644.mp3",
+    "static/media/bg-image.jpg": "/KahooTik/static/media/bg-image.81ff75fb1fdcd5ab7cf2.jpg",
+    "static/media/bg-image-quetion.jpg": "/KahooTik/static/media/bg-image-quetion.72b999c218ea82ef5b6d.jpg",
+    "static/media/winner.mp3": "/KahooTik/static/media/winner.e7ea712563d2ecfeac13.mp3",
+    "static/media/Winner.jpg": "/KahooTik/static/media/Winner.78a7901e0dde162865d8.jpg",
+    "index.html": "/KahooTik/index.html",
+    "main.eb049209.css.map": "/KahooTik/static/css/main.eb049209.css.map",
+    "main.84001395.js.map": "/KahooTik/static/js/main.84001395.js.map"
   },
   "entrypoints": [
     "static/css/main.eb049209.css",
-    "static/js/main.48cdbba3.js"
+    "static/js/main.84001395.js"
   ]
 }
